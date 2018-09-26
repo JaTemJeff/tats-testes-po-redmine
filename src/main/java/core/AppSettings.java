@@ -20,7 +20,7 @@ public class AppSettings {
     public static boolean FECHAR_BROWSER = true;
 
     //Escolhe em qual browser rodar
-    public static Browsers browser = Browsers.CHROME_HEADLESS;
+    public static Browsers browser = Browsers.CHROME;
 
     public enum Browsers {
         CHROME,
